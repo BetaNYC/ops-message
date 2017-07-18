@@ -13,6 +13,9 @@ Until we start writing everything as markdown files, we are using this [repo's i
 
 [![Stories in Ready](https://badge.waffle.io/BetaNYC/ops-message.png?label=ready&title=Ready)](https://waffle.io/BetaNYC/ops-message?utm_source=badge)
 
+## How to communicate with the team
+You can get intouch with the team via a github issue or you join BetaNYC's slack at http://slack.beta.nyc and ping team members.
+
 ## Repo Participants
  * Noel @noneck
  * Alex @iamcurtis
