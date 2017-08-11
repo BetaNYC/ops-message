@@ -18,7 +18,7 @@ You can get intouch with the team via a github issue or you join BetaNYC's slack
 
 ## Repo Participants
  * Noel @noneck
- * Alex @iamcurtis
+ * Alex @imcurtis
  * Christian @cmoscardi
  * If you want to participate in the day to day planning of this group, open an issue and assign it to @noneck
 
