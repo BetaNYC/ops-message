@@ -16,6 +16,10 @@ Until we start writing everything as markdown files, we are using this [repo's i
 ## How to communicate with the team
 You can get intouch with the team via a github issue or you join BetaNYC's slack at http://slack.beta.nyc and ping team members.
 
+You can also submit content to appear in The_Message here!
+
+### [Submission Form](https://betanyc.forms.fm/the-message)
+
 ## Repo Participants
  * Noel @noneck
  * Alex @imcurtis
@@ -26,3 +30,4 @@ You can get intouch with the team via a github issue or you join BetaNYC's slack
  * [Publishing Schedule](https://docs.google.com/spreadsheets/d/18VQmLmpuLRbBUYGdh7cxdSqzGIztO2r630cCWrQktQA/edit?usp=sharing)
  * [The_Message Template](https://docs.google.com/document/d/1tQSCLjUQGj9kpKhZ2l5YmF2K0xgI9cqaYb79knrpcxs/edit?usp=sharing)
  * Permalink to sign up to The_Message  < http://nyc.us6.list-manage2.com/subscribe?u=2b506b76155e3fbdd93699baf&id=32dc10066c >
+ * [Mission Statement](https://docs.google.com/document/d/1Y6ZuZNSM9TgNJq0c8cn9YtP_5PToWHsN-ZESMIAKuRo/edit)
